@@ -1,9 +1,6 @@
 # Particiones-de-informacion
-
 Alexandro Gutierrez Serna
-
 Practica de particiones de informacion para seminario de sistemas basados en conocimientos.
-
 
 Funcionamiento:
   1 - El programa inicia particionando en dos conjuntos, uno de prueba y uno que podrá seguir siendo particionando.
