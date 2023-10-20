@@ -21,7 +21,7 @@ Resultado:
   
   Ej. =
   
-  #conjuntos iniciales     #Para 3 particiones de un mismo tipo         #1
+  #conjuntos iniciales     #Para 3 particiones de un mismo tipo         #Para 1 particion de un mismo tipo
   
   [ 
   [particionable, prueba], [[particionable],[particion1],[particion2]], [[particionable, particion3]], ...,
