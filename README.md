@@ -28,6 +28,9 @@ Resultado:
   ]
   
 
+
+
+
   5 Metodos de partición:
   
   (Identifiqué que el dataset es para la clasificacion de flores iris).
@@ -35,7 +38,7 @@ Resultado:
   
 Partición aleatoria:
 
-    Este método divide el conjunto de datos en dos conjuntos de manera aleatoria. Es útil cuando se desea una partición simple y aleatoria de los datos.
+Este método divide el conjunto de datos en dos conjuntos de manera aleatoria. Es útil cuando se desea una partición simple y aleatoria de los datos.
     
   
 Partición por especie: 
