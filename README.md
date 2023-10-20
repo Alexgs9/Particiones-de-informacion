@@ -14,6 +14,7 @@ Funcionamiento:
   4 - Cada particion es graficada.
   
 
+
 Resultado:
 
   El programa genera una lista de dataframes con todas las particiones que se realizaron.
@@ -28,19 +29,31 @@ Resultado:
   
 
   5 Metodos de partición:
+  
   (Identifiqué que el dataset es para la clasificacion de flores iris).
   
+  
 Partición aleatoria:
+
     Este método divide el conjunto de datos en dos conjuntos de manera aleatoria. Es útil cuando se desea una partición simple y aleatoria de los datos.
+    
   
 Partición por especie: 
+
     En este enfoque, los datos se dividen en conjuntos manteniendo proporciones de cada especie de flor presente en el conjunto de datos original. Es útil para problemas de clasificación cuando deseas mantener una distribución equitativa de clases en las particiones.
+    
 
 Partición estratificada por especie:
+
     Es parecido al metodo anterior, pero utiliza una función de estratificación para garantizar que las particiones mantengan la proporción de especies en el conjunto de datos original. Esto es útil para problemas de clasificación donde la distribución de clases es desigual.
+    
 
 Partición basada en características: 
+
     Los datos se dividen utilizando características específicas o columnas del conjunto de datos. Se puede seleccionar las columnas que se desean usar. Es útil cuando se desea trabajar con un subconjunto específico de características.
+    
 
 Partición temporal:
+
     Este enfoque divide los datos en conjuntos de manera secuencial, utilizando filas pares e impares, lo que es útil en datos temporales o secuenciales. Cada conjunto representa un intervalo de tiempo diferente en la secuencia de datos.
+    
