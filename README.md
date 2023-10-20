@@ -4,6 +4,7 @@ Alexandro Gutierrez Serna
 
 Practica de particiones de informacion para seminario de sistemas basados en conocimientos.
 
+
 Funcionamiento:
   1 - El programa inicia particionando en dos conjuntos, uno de prueba y uno que podrá seguir siendo particionando.
   2 - Se ingresa la cantidad de particiones de un mismo tipo y después el porcentaje que será particionado con este tipo de metodo.
