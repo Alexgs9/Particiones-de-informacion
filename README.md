@@ -1,5 +1,6 @@
 # Particiones-de-informacion
 Alexandro Gutierrez Serna
+
 Practica de particiones de informacion para seminario de sistemas basados en conocimientos.
 
 Funcionamiento:
